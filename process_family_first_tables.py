@@ -79,7 +79,7 @@ def load_fcentry_table_csv(inputPath, fileName,FileType =''):
 
 # %%
 if __name__ == '__main__':
-    rootPath = r"C:\\Users\\malcolm.hale\Non_Sync\\FF pull 122020224"
+    rootPath = r"C:\\Users\\malcolm.hale\\Non_Sync\\FF pull 122020224"
     inputPath = rootPath + r"\\Input\\"
     outputPath = rootPath + r"\\Output\\"
 
